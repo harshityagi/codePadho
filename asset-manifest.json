@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codePadho/static/css/main.a617e044.chunk.css",
+    "main.js": "/codePadho/static/js/main.34ee5731.chunk.js",
+    "main.js.map": "/codePadho/static/js/main.34ee5731.chunk.js.map",
+    "runtime-main.js": "/codePadho/static/js/runtime-main.c03d8639.js",
+    "runtime-main.js.map": "/codePadho/static/js/runtime-main.c03d8639.js.map",
+    "static/js/2.c9699ae1.chunk.js": "/codePadho/static/js/2.c9699ae1.chunk.js",
+    "static/js/2.c9699ae1.chunk.js.map": "/codePadho/static/js/2.c9699ae1.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/codePadho/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/codePadho/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/codePadho/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/codePadho/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.c9699ae1.chunk.js.LICENSE.txt": "/codePadho/static/js/2.c9699ae1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c03d8639.js",
+    "static/js/2.c9699ae1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.34ee5731.chunk.js"
+  ]
+}
